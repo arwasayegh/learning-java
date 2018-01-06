@@ -1,5 +1,3 @@
 public class Storage {
-	public static void main (String args[]) {
-		
-	}
+		double[][] data = new double[3][4];
 }
